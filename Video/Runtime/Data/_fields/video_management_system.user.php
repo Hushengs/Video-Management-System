@@ -1,0 +1,1 @@
+a:8:{i:0;s:3:"uid";i:1;s:8:"username";i:2;s:8:"password";i:3;s:3:"sex";i:4;s:8:"identity";i:5;s:6:"status";s:3:"_pk";s:3:"uid";s:5:"_type";a:6:{s:3:"uid";s:16:"int(10) unsigned";s:8:"username";s:11:"varchar(32)";s:8:"password";s:8:"char(32)";s:3:"sex";s:17:"enum('男','女')";s:8:"identity";s:26:"enum('非会员','会员')";s:6:"status";s:23:"enum('正常','禁用')";}}

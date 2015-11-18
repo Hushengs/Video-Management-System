@@ -8,7 +8,7 @@ define('APP_NAME','Video');
 define('APP_PATH','./Video/');
 
 //默认加载Home前台模块
-$_GET['m'] = 'Home';
+$_GET['m'] = 'Admin';
 
 //引人ThinkPHP核心文件
 require('./ThinkPHP/ThinkPHP.php');
